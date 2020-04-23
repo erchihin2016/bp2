@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">bp2</string>
+    <string name="url">url</string>
+    <string name="next">next</string>
+    <string name="ифсл">back</string>
+    <string name="textview">view</string>
+    <string name="заг">zag</string>
+</resources>
